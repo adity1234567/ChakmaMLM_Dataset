@@ -36,14 +36,8 @@ The dataset is designed for **low-resource language adaptation research**.
 
 ## Sources of The Books
 
-| Book Title (Bangla) | English Translation | Author(s) | Publisher | Pages |
-|----------------------|--------------------|-----------|-----------|-------|
-| চাকমা ছোটগল্প | Chakma Short Stories | মৃিত্তকা চাকমা, িঝিমত চাকমা, মুক্তা চাকমা | Jum Aesthetics Council (JAC), Rangamati | 51 |
-| আজব সাপ | The Strange Snake | বিপম চাঙমা | J Computer & Printers, Chattogram | 57 |
-| হিলট্র্যাক্টেসর দুঃখ সুখ | Joys and Sorrows of the Hill Tracts | জ্ঞােনর আেলা চাঙমা | Islamiya Offset Press, Khagrachari | 103 |
-| সােম্মা সোনা | Sona Moni Changma | বনেযাগীছাড়া | Jurachhari | 63 |
+<img width="1226" height="405" alt="image" src="https://github.com/user-attachments/assets/e2b66161-6d1b-4632-a0b0-472375e4cb66" />
 
----
 
 ## Data Format
 
