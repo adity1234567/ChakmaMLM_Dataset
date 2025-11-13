@@ -26,7 +26,7 @@ The dataset is designed for **low-resource language adaptation research**.
 |----------------------|-----------------|-------|
 | **Tesseract OCR**    | 6,353           | Raw OCR output |
 | **Gemini OCR**       | 5,982           | Raw OCR output |
-| **Manually Corrected** | 4,570           | Final cleaned dataset (recommended) |
+| **Manually Corrected** | 4,570           | Manually cleaned dataset |
 
 **Book-wise Breakdown (Manually Corrected):**
 - Book 3 (Full): 3,287 sentences  
