@@ -1,4 +1,4 @@
-# Chakma Bangla-Transliterated Corpus
+# Bangla-transliterated Chakma Corpus
 
 ## Overview
 This dataset contains a **Bangla-transliterated Chakma corpus** curated from Chakma books and manually validated.  
