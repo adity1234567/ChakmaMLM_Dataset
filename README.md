@@ -71,15 +71,15 @@ data/
 | Manual Fixed  | 2,908 | 545  | 1,118 |
 
 ---
-
-## Applications
+```
+<!--## Applications
 
 - Pretraining & fine-tuning multilingual LMs for Chakma   
 - Tokenization and morphology analysis in Indic scripts  
 - Evaluation of OCR quality in low-resource settings  
 
 ---
-
+-->
 ## License
 The dataset is released for **research purposes only**. Please cite our paper when using it.  
 
@@ -88,6 +88,6 @@ The dataset is released for **research purposes only**. Please cite our paper wh
 ## Citation
 If you use this dataset, please cite:
 
-```
+
 
 ```
