@@ -88,6 +88,13 @@ The dataset is released for **research purposes only**. Please cite our paper wh
 ## Citation
 If you use this dataset, please cite:
 
+@article{khisa2025exploring,
+  title={Exploring Cross-Lingual Knowledge Transfer via Transliteration-Based MLM Fine-Tuning for Critically Low-resource Chakma Language},
+  author={Khisa, Adity and Jahan Lia, Nusrat and Mahfuz Nafis, Tasnim and Masud, Zarif and Pial, Tanzir and Rayana, Shebuti and Kabir, Ahmedul},
+  journal={arXiv e-prints},
+  pages={arXiv--2510},
+  year={2025}
+}
 
 
 ```
